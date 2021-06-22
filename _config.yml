@@ -5,7 +5,7 @@ collections:
   people:
     title: People
     output: true
-    permalink: "/people"
+    permalink: "/people/:path"
   posts:
     title: Posts
     output: true
